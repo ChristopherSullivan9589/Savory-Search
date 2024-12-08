@@ -1,0 +1,67 @@
+{
+  "id": 640803,
+  "title": "Crispy Buttermilk Fried Chicken",
+  "image": "https://img.spoonacular.com/recipes/640803-312x231.jpg",
+  "imageType": "jpg",
+  "usedIngredientCount": 1,
+  "missedIngredientCount": 2,
+  "missedIngredients": [
+    {
+      "id": 2028,
+      "amount": 1,
+      "unit": "teaspoon",
+      "unitLong": "teaspoon",
+      "unitShort": "tsp",
+      "aisle": "Spices and Seasonings",
+      "name": "paprika",
+      "original": "1 teaspoon paprika",
+      "originalName": "paprika",
+      "meta": [],
+      "image": "https://img.spoonacular.com/ingredients_100x100/paprika.jpg"
+    },
+    {
+      "id": 1230,
+      "amount": 1,
+      "unit": "cup",
+      "unitLong": "cup",
+      "unitShort": "cup",
+      "aisle": "Milk, Eggs, Other Dairy",
+      "name": "buttermilk",
+      "original": "1 cup buttermilk",
+      "originalName": "buttermilk",
+      "meta": [],
+      "image": "https://img.spoonacular.com/ingredients_100x100/buttermilk.jpg"
+    }
+  ],
+  "usedIngredients": [
+    {
+      "id": 5006,
+      "amount": 2,
+      "unit": "pounds",
+      "unitLong": "pounds",
+      "unitShort": "lb",
+      "aisle": "Meat",
+      "name": "chicken",
+      "original": "2 pounds chicken",
+      "originalName": "chicken",
+      "meta": [],
+      "image": "https://img.spoonacular.com/ingredients_100x100/whole-chicken.jpg"
+    }
+  ],
+  "unusedIngredients": [
+    {
+      "id": 10720420,
+      "amount": 1,
+      "unit": "serving",
+      "unitLong": "serving",
+      "unitShort": "serving",
+      "aisle": "Pasta and Rice",
+      "name": "linguini",
+      "original": "linguini",
+      "originalName": "linguini",
+      "meta": [],
+      "image": "https://img.spoonacular.com/ingredients_100x100/spaghetti.jpg"
+    }
+  ],
+  "likes": 53
+}

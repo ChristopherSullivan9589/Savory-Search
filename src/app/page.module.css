@@ -1,0 +1,109 @@
+.title {
+  text-align: center;
+  display: block;
+  margin: 4rem;
+  margin-bottom: 3rem;
+  font-size: 60px;
+  font-family: Courier;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.buttonAddClear {
+  flex: 1;
+  margin-left: 1rem;
+  height: 4rem;
+  width: 10%;
+  max-width: 150px;
+  background-color: #59a260;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-radius: 50px;
+}
+
+.buttonGet {
+  flex: 1;
+  margin: 1rem;
+  height: 4rem;
+  width: 15%;
+  max-width: 200px;
+  background-color: #59a260;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-radius: 50px;
+}
+
+.buttonFilter {
+  flex: 1;
+  margin: 1rem;
+  margin-left: 0rem;
+  height: 4rem;
+  width: 15%;
+  max-width: 230px;
+  border-color: #59a260;
+  border: solid;
+  color: #59a260;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-radius: 50px;
+  background-color: --background;
+}
+
+.input {
+  flex: 1;
+  margin-left: 2rem;
+  height: 4rem;
+  width: 50%;
+  max-width: 600px;
+  padding: 15px 32px;
+  text-align: left;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-radius: 50px;
+  border-color: gray;
+}
+
+.recipesContainer {
+  text-align: center;
+  gap: 20px;
+}
+
+.recipesList {
+  text-align: center;
+}
+
+.recipeObject {
+  text-align: center;
+}
+
+.ingredientsContainer {
+  text-align: center;
+  padding-bottom: 30px;
+}
