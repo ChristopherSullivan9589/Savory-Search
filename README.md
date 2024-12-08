@@ -1,17 +1,12 @@
-Demo steps:
+### Savory Search
+Savory Search is a React application designed to simplify the cooking experience by helping users discover recipes based on the ingredients they already have. By leveraging the Spoonacular API, Savory Search provides an intuitive and efficient way to reduce food waste and explore culinary creativity.
 
-1 - add "Chicken" to ingredients
+**Features**
+- Ingredient-Based Recipe Search: Input available ingredients, and Savory Search will suggest recipes tailored to those items.
+- Exact Match Filtering: Option to limit results to recipes that exclusively use the provided ingredients.
+- Detailed Recipe Information: View recipe instructions, ingredient lists, preparation times, and more.
+- User-Friendly Interface: A modern and responsive UI for seamless navigation and interaction.
 
-2 - click get recipes
-
-3 - click the first result
-
-4 - view the pop up box with the results
-
-5 - close box
-
-6 - press filter
-
-7 - add the following ingredients: flour, salt, paprika, pepper, buttermilk, vegetable oil
-
-8 - search and filter again
+**Installation**
+- Clone repository or download files
+- Run application through localhost
